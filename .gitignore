@@ -1,0 +1,8 @@
+   # compiled program
+   hostel
+   hostel.exe
+   *.o
+
+   # data created at run time
+   *.dat
+   occupants_report.txt
