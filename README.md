@@ -157,5 +157,5 @@ hostel.dat
 
 ## Author
 
-Aniket Sharma
+Aniket Sharma | 
 217-A | 26BAI10082
