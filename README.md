@@ -157,5 +157,5 @@ hostel.dat
 
 ## Author
 
-[Your Name]
-[Your Class / Section] | [Your University ID]
+Aniket Sharma
+217-A | 26BAI10082
